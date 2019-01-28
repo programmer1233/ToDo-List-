@@ -1,2 +1,2 @@
 # ToDo-List-
-ToDo List project created with JavaScript,Html and Css
+ToDo List project created with JavaScript,HTML and CSS
